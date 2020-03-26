@@ -1,0 +1,10 @@
+public class VarTest{
+	public static void main(String[] atge){
+	float f= 10.0f;
+	double d=1.2345;
+	
+	System.out.println("f : "f);
+	System.out.println("d : "d);
+
+	}
+}

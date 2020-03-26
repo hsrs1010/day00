@@ -1,0 +1,9 @@
+public class Exam208{
+	public static void main(String[] args){
+	boolean b=true;
+	boolean c=false;
+
+	System.out.println("B : +b");
+	System.out.println("C : +c");
+	}
+}

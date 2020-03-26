@@ -1,0 +1,8 @@
+public class Exam205{
+	public static void main(String[] args{)
+	int i=100;
+	i=i+20
+	System.out.println("i : "+i)
+	}
+
+}
